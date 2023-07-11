@@ -1,2 +1,2 @@
 # Rust-Calc
-Simple Rust Calculator for Pracatice
+Simple Rust Calculator for Practice
