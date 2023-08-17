@@ -9,7 +9,7 @@ fn input_str_2_vec(n: String) -> Vec<String> {
 
 fn main() {
     loop {
-    //print "Enter and Expression" and get user input
+    //print "Enter and Expression: " and get user input
     let mut user_in = String::new();
     println!("\nEnter an Expression: ");
     io::stdin().read_line(&mut user_in).expect("Not Valid");
